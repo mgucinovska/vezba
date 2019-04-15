@@ -1,0 +1,25 @@
+
+2. $ git init
+   $ mkdir 
+   $ cd 
+3. $ touch l1.txt 
+4. Kiril Zelenkovski, 161141 
+5. $git commit -m "Initial commit" 
+6. Kiril Zelenkovski, 161141 
+   KNI
+7. $git commit -m "modify l1.txt"
+8. -||-
+9.  $ git remote add origin ?https://github.com/Kirce.origin.git
+10. $ git push -u origin master 
+11. $ git checkout --l1.txt
+12. $ git branch logging
+13. $ git checkout logging  potoa so $ nano log.txt se zapisuva logot 
+14. $ git add log.txt    potoa    $ git push
+15. $ git checkout master potoa $git merge logging za da se stavi na github 
+$git push -u origin master
+16. $ git branch allcommands 
+17. $ git checkout allcommands . $ touch commands.txt , za da zapismee $ nano commands.txt
+18. $ git add commands.txt  potoa se pravi $ git commit -m "Promena ", 
+$ git push -u origin all commands
+19. $ git checkout allcomands, $ git rebase master, $ git checkout master 
+i za da se spojat $ git merge allcommands,   $ git push -u origin master 
